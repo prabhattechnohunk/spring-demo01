@@ -17,7 +17,7 @@ public class App
         Student student02 = (Student) context.getBean("student2");
         System.out.println(student02);
 
-
+// new line
 
     }
 }
